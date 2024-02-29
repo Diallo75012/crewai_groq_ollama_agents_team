@@ -1,0 +1,18 @@
+# environment
+.env
+*env*
+env/*
+venv*
+*venv
+*venv*
+*.bak
+*_bak
+*_BAK
+# cache and python
+__pycache__/*
+*__pycache__*
+__pycache__/
+*.py[cod]
+*$py.class
+.Python
+
