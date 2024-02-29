@@ -52,6 +52,7 @@ google-resumable-media==2.7.0
 googleapis-common-protos==1.62.0
 gptcache==0.1.43
 greenlet==3.0.3
+groq==0.4.1
 grpc-google-iam-v1==0.13.0
 grpcio==1.62.0
 grpcio-status==1.62.0

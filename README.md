@@ -10,7 +10,7 @@
 
 ** This application has the boiler plate for agent to work ona  task in a hierachical process with a manager or in a sequential process without manager. **
 
-1- Intall requirements.txt : ```python pip install -r requriements.txt```
+1- Intall requirements.txt : ```python pip install -r requriements_full.txt```
 
 2- create a .env file for the envrionement variabled see the example_for_secrets.txt file and create your .env file like that providing you the ability to switch for the LLM engine or API to use
 
